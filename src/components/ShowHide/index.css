@@ -1,0 +1,34 @@
+.mainContainer {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7, #dd1264);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.cardcontainer {
+  width: 30%;
+  height: 30%;
+  text-align: center;
+}
+button {
+  padding: 5px;
+  border-radius: 5px;
+  color: #fc63a7;
+}
+.buttonContainer {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.name1 {
+  width: 45%;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+.name2 {
+  width: 45%;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
